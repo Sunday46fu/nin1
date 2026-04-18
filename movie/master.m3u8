@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=5640792,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2"
+https://cdn.jsdelivr.net/gh/Sunday46fu/nin1@v2026.04.18.1648/movie/v0.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=3220792,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
+https://cdn.jsdelivr.net/gh/Sunday46fu/nin1@v2026.04.18.1648/movie/v1.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1460792,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2"
+https://cdn.jsdelivr.net/gh/Sunday46fu/nin1@v2026.04.18.1648/movie/v2.m3u8
